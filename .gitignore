@@ -1,0 +1,42 @@
+# --- Entorno virtual ---
+venv/
+ENV/
+env/
+.venv/
+
+# --- Archivos compilados de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Archivos ocultos y del sistema ---
+.DS_Store
+.Trashes
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.fseventsd
+*.swp
+
+# --- Visual Studio Code ---
+.vscode/
+.history/
+*.code-workspace
+
+# --- Archivos de Jupyter (si usas aún) ---
+.ipynb_checkpoints/
+
+# --- Archivos de logs ---
+*.log
+
+# --- Archivos de bases de datos temporales ---
+*.sqlite3
+*.db
+
+# --- Archivos de configuración local --- evita subir secretos
+.env
+
+# --- Archivos cache Gitguardian ---
+#.cache_ggshield
