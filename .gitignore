@@ -1,15 +1,95 @@
-# --- Entorno virtual ---
+# -------------------------------
+# Entornos virtuales
+# -------------------------------
 venv/
 ENV/
 env/
 .venv/
+.Python             # Archivo usado por pyenv
+__pypackages__/     # PEP 582: paquetes locales
 
-# --- Archivos compilados de Python ---
+# -------------------------------
+# Archivos compilados de Python
+# -------------------------------
 __pycache__/
 *.py[cod]
 *$py.class
 
-# --- Archivos ocultos y del sistema ---
+# -------------------------------
+# Archivos generados por Cython
+# -------------------------------
+*.so
+
+# -------------------------------
+# Archivos y carpetas de instalación/distribución
+# -------------------------------
+build/
+dist/
+*.egg
+*.egg-info/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+share/python-wheels/
+.installed.cfg
+develop-eggs/
+downloads/
+MANIFEST
+
+# -------------------------------
+# PyInstaller (para crear ejecutables)
+# -------------------------------
+*.manifest
+*.spec
+
+# -------------------------------
+# Logs del instalador pip
+# -------------------------------
+pip-log.txt
+pip-delete-this-directory.txt
+
+# -------------------------------
+# Logs en general
+# -------------------------------
+*.log
+
+# -------------------------------
+# Archivos de pruebas y cobertura
+# -------------------------------
+htmlcov/
+.tox/
+.nox/
+.coverage*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# -------------------------------
+# Notebooks de Jupyter
+# -------------------------------
+.ipynb_checkpoints/
+
+# -------------------------------
+# Archivos de configuración local
+# -------------------------------
+.env                # Evita subir credenciales o claves secretas
+local_settings.py
+
+# -------------------------------
+# Bases de datos temporales o locales
+# -------------------------------
+*.sqlite3
+*.db
+
+# -------------------------------
+# Archivos ocultos del sistema (macOS)
+# -------------------------------
 .DS_Store
 .Trashes
 .AppleDouble
@@ -18,25 +98,96 @@ Icon?
 ._*
 .Spotlight-V100
 .fseventsd
-*.swp
 
-# --- Visual Studio Code ---
+# -------------------------------
+# Archivos temporales de edición
+# -------------------------------
+*.swp               # Vim
+.history/           # Algunos plugins de VSC
+
+# -------------------------------
+# Visual Studio Code
+# -------------------------------
 .vscode/
-.history/
 *.code-workspace
 
-# --- Archivos de Jupyter (si usas aún) ---
-.ipynb_checkpoints/
+# -------------------------------
+# Herramientas específicas
+# -------------------------------
+.spyderproject
+.spyderworkspace
+.ropeproject
 
-# --- Archivos de logs ---
-*.log
+# -------------------------------
+# Análisis de tipos estático
+# -------------------------------
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
 
-# --- Archivos de bases de datos temporales ---
-*.sqlite3
-*.db
+# -------------------------------
+# PyBuilder
+# -------------------------------
+target/
 
-# --- Archivos de configuración local --- evita subir secretos
-.env
+# -------------------------------
+# Documentación generada (Sphinx, MkDocs)
+# -------------------------------
+docs/_build/
+site/
 
-# --- Archivos cache Gitguardian ---
+# -------------------------------
+# Scrapy (web scraping)
+# -------------------------------
+.scrapy
+
+# -------------------------------
+# Flask
+# -------------------------------
+instance/
+.webassets-cache
+
+# -------------------------------
+# IPython
+# -------------------------------
+profile_default/
+ipython_config.py
+
+# -------------------------------
+# Archivos de traducción
+# -------------------------------
+*.mo
+*.pot
+
+# -------------------------------
+# pipenv
+# -------------------------------
+Pipfile.lock
+
+# -------------------------------
+# Celery
+# -------------------------------
+celerybeat-schedule
+
+# -------------------------------
+# SageMath
+# -------------------------------
+*.sage.py
+
+# -------------------------------
+# Archivos de depuración de Cython
+# -------------------------------
+cython_debug/
+
+# -------------------------------
+# GitGuardian (opcional)
+# -------------------------------
 #.cache_ggshield
+
+# -----------------------------------------
+# Carpeta del profesor (NO incluir en Git)
+# -----------------------------------------
+
+/Ciencia-de-datos-Python-Institute-PCED-30-Ed3/
