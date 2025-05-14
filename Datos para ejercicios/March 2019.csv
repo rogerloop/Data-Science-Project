@@ -1,0 +1,326 @@
+IdOrder,Date,Country,Units,Revenue,Customer
+407,2019-03-10,USA,288,4283.13,Spacely Sprockets
+408,2019-03-10,Panama,195,1120.84,Wayne Enterprises
+409,2019-03-20,Colombia,24,1562.82,Gekko & Co.
+410,2019-03-07,Colombia,255,2889.14,Kobra International
+411,2019-03-01,Brazil,271,9143.03,Nakatomi Trading
+412,2019-03-13,Panama,387,26050.58,Kobra International
+413,2019-03-03,Brazil,19,146.0,Oscorp
+414,2019-03-07,Brazil,154,2590.08,OCP
+415,2019-03-20,Colombia,383,2371.61,Stark Industries
+416,2019-03-15,Colombia,147,7233.09,Massive Dynamic
+417,2019-03-20,Panama,336,3486.55,OCP
+418,2019-03-24,Panama,110,6047.09,Initech
+419,2019-03-23,Brazil,252,16694.51,Umbrella Corp
+420,2019-03-29,USA,16,559.39,MomCorp
+421,2019-03-30,Panama,42,123.18,Vandelay Industries
+422,2019-03-16,Panama,88,2683.54,LexCorp
+423,2019-03-10,Canada,165,163.76,Abstergo Industries
+424,2019-03-07,Brazil,316,600.76,LexCorp
+425,2019-03-16,Panama,345,8772.07,Virtucon
+426,2019-03-24,USA,20,742.42,Vandelay Industries
+427,2019-03-25,Panama,272,7094.11,Abstergo Industries
+428,2019-03-31,Canada,115,1087.99,Delos Incorporated
+429,2019-03-31,Canada,157,4641.51,Delos Incorporated
+430,2019-03-31,USA,330,17351.25,Kobra International
+431,2019-03-19,Canada,126,1407.25,Stark Industries
+432,2019-03-07,Canada,274,16504.33,BiffCo
+433,2019-03-18,Colombia,102,3602.03,Rich Industries
+434,2019-03-04,Colombia,155,2808.95,Oscorp
+435,2019-03-07,Panama,134,9536.57,Octan Corporation
+436,2019-03-25,Colombia,124,7510.11,BiffCo
+437,2019-03-29,USA,274,4895.28,OCP
+438,2019-03-13,Colombia,50,497.47,Soylent Corp
+439,2019-03-12,Panama,26,2069.0,Nakatomi Trading
+440,2019-03-26,Panama,291,733.37,Wonka Industries
+441,2019-03-22,Panama,280,9067.76,Tyrell Corporation
+442,2019-03-08,Canada,181,11100.36,Monarch Solutions
+443,2019-03-02,Canada,367,7066.63,Massive Dynamic
+444,2019-03-22,Colombia,44,100.8,Octan Corporation
+445,2019-03-05,Colombia,82,1545.61,Virtucon
+446,2019-03-11,Panama,280,15265.62,Globex Corporation
+447,2019-03-07,Colombia,88,4578.49,Nordic Ventures
+448,2019-03-16,Canada,174,1461.8,Yoyodyne Propulsion Systems
+449,2019-03-10,Panama,143,6195.71,Octan Corporation
+450,2019-03-29,Colombia,192,1983.85,Oscorp
+451,2019-03-28,Colombia,160,4244.59,Wonka Industries
+452,2019-03-10,Brazil,363,28323.59,OCP
+453,2019-03-15,Colombia,142,8341.92,Globex Corporation
+454,2019-03-22,USA,390,4582.05,BiffCo
+455,2019-03-10,Canada,77,72.22,Tyrell Corporation
+456,2019-03-02,Brazil,169,5675.67,Yoyodyne Propulsion Systems
+457,2019-03-27,Panama,71,2087.77,Oscorp
+458,2019-03-16,Colombia,113,2729.93,Hyperion Systems
+459,2019-03-25,Brazil,266,7279.43,ZikZak Corporation
+460,2019-03-24,Colombia,370,29222.28,Vandelay Industries
+461,2019-03-25,USA,172,9779.8,Encom
+462,2019-03-12,Canada,35,826.0,Blue Sun Corporation
+463,2019-03-07,Brazil,241,15042.21,Vandelay Industries
+464,2019-03-12,Colombia,205,5806.75,Hexagon Global
+465,2019-03-17,USA,277,14650.91,Acme Corp
+466,2019-03-21,Panama,48,14.42,BiffCo
+467,2019-03-30,Brazil,176,9730.34,BiffCo
+468,2019-03-23,Canada,394,738.25,Yoyodyne Propulsion Systems
+469,2019-03-02,Canada,29,723.76,Vandelay Industries
+470,2019-03-13,Brazil,108,332.1,OCP
+471,2019-03-31,Brazil,304,2152.72,Virtucon
+472,2019-03-10,Panama,28,143.32,Kobra International
+473,2019-03-31,Colombia,384,9508.81,Massive Dynamic
+474,2019-03-23,USA,330,17316.56,LexCorp
+475,2019-03-16,USA,386,4188.41,Spacely Sprockets
+476,2019-03-10,Brazil,234,5816.65,Vought International
+477,2019-03-29,USA,96,3326.34,Octan Corporation
+478,2019-03-06,Brazil,105,9074.97,Initech
+479,2019-03-31,USA,179,1421.94,Delos Incorporated
+480,2019-03-15,USA,392,2095.49,Oscorp
+481,2019-03-15,Panama,40,902.96,Hexagon Global
+482,2019-03-11,Brazil,313,6176.36,Tyrell Corporation
+483,2019-03-04,Brazil,398,8658.56,Gekko & Co.
+484,2019-03-18,Canada,380,9738.06,Wayne Enterprises
+485,2019-03-26,Panama,134,5881.76,Vought International
+486,2019-03-15,Panama,85,2482.66,Octan Corporation
+487,2019-03-16,Colombia,373,8791.58,Oscorp
+488,2019-03-28,USA,107,6588.96,Rich Industries
+489,2019-03-23,Brazil,222,13934.95,Gekko & Co.
+490,2019-03-03,Panama,142,4783.07,Oscorp
+491,2019-03-10,USA,77,2458.76,Vandelay Industries
+492,2019-03-07,Panama,52,2368.05,Gringotts Bank
+493,2019-03-04,USA,328,6517.1,Tyrell Corporation
+494,2019-03-06,USA,11,269.19,Hooli
+495,2019-03-27,Colombia,241,10766.53,Abstergo Industries
+496,2019-03-23,Canada,301,6769.89,BiffCo
+497,2019-03-09,Brazil,245,2548.26,Delos Incorporated
+498,2019-03-17,Colombia,184,80.8,Soylent Corp
+499,2019-03-11,Brazil,267,5543.72,Wonka Industries
+500,2019-03-26,USA,158,6937.47,Delos Incorporated
+501,2019-03-02,Brazil,362,8260.7,Acme Corp
+502,2019-03-06,Canada,120,1895.72,Cyberdyne Systems
+503,2019-03-16,Colombia,50,2161.74,MomCorp
+504,2019-03-01,USA,378,7383.58,Tyrell Corporation
+505,2019-03-08,Colombia,95,2327.43,Stark Industries
+506,2019-03-14,Panama,377,25533.11,Hexagon Global
+507,2019-03-07,Canada,339,7557.65,Blue Sun Corporation
+508,2019-03-22,USA,309,10056.43,Monarch Solutions
+509,2019-03-28,Panama,349,9456.26,Dunder Mifflin
+510,2019-03-04,Canada,163,10693.76,Nakatomi Trading
+511,2019-03-10,Brazil,347,12715.55,Vought International
+512,2019-03-06,Panama,150,1865.58,Nordic Ventures
+513,2019-03-26,Colombia,184,6028.28,Blue Sun Corporation
+514,2019-03-19,Panama,239,14974.13,Cyberdyne Systems
+515,2019-03-02,Panama,179,2374.68,LexCorp
+516,2019-03-23,Colombia,136,7575.17,Soylent Corp
+517,2019-03-17,USA,275,7359.43,Blue Sun Corporation
+518,2019-03-09,Panama,125,11257.09,Yoyodyne Propulsion Systems
+519,2019-03-25,Colombia,154,2893.3,Vandelay Industries
+520,2019-03-03,Panama,282,17272.09,Hooli
+521,2019-03-14,Brazil,59,638.41,BiffCo
+522,2019-03-30,Brazil,234,3269.98,Rich Industries
+523,2019-03-23,Panama,167,1445.71,Vought International
+524,2019-03-20,USA,260,3730.3,Umbrella Corp
+525,2019-03-08,Canada,138,6957.9,Soylent Corp
+526,2019-03-08,Brazil,297,4785.21,Hooli
+527,2019-03-24,Panama,373,12083.59,Monarch Solutions
+528,2019-03-09,Panama,100,9225.41,Globex Corporation
+529,2019-03-10,Brazil,326,20578.6,LexCorp
+530,2019-03-02,Panama,191,6847.77,Cyberdyne Systems
+531,2019-03-25,Panama,111,5681.79,Weyland-Yutani
+532,2019-03-17,Brazil,354,11494.38,Dunder Mifflin
+533,2019-03-03,Panama,123,8945.28,Wonka Industries
+534,2019-03-15,Brazil,17,809.78,Hexagon Global
+535,2019-03-21,Canada,228,6600.27,Hexagon Global
+536,2019-03-28,Colombia,264,3406.28,Rich Industries
+537,2019-03-05,Canada,330,4516.41,Wayne Enterprises
+538,2019-03-17,Canada,327,7203.28,BiffCo
+539,2019-03-12,Canada,321,4787.62,ZikZak Corporation
+540,2019-03-21,USA,116,1423.69,Cyberdyne Systems
+541,2019-03-31,Colombia,335,6902.02,Vought International
+542,2019-03-29,Colombia,44,1573.23,Abstergo Industries
+543,2019-03-17,Canada,177,11049.93,Kobra International
+544,2019-03-11,USA,84,2251.19,Abstergo Industries
+545,2019-03-05,Colombia,284,9100.6,Octan Corporation
+546,2019-03-23,Canada,13,243.09,Dunder Mifflin
+547,2019-03-22,Brazil,375,6728.95,Wayne Enterprises
+548,2019-03-01,Canada,245,21329.32,Stark Industries
+549,2019-03-10,Canada,259,5936.95,Abstergo Industries
+550,2019-03-01,Panama,120,19.23,Stark Industries
+551,2019-03-06,Brazil,59,1426.94,Hexagon Global
+552,2019-03-01,Colombia,21,938.51,Blue Sun Corporation
+553,2019-03-04,USA,42,2338.65,Initech
+554,2019-03-11,USA,121,1842.54,Octan Corporation
+555,2019-03-05,Canada,133,3448.99,MomCorp
+556,2019-03-02,USA,300,15047.92,Initech
+557,2019-03-24,USA,265,10773.69,Octan Corporation
+558,2019-03-20,Brazil,299,9234.44,Cyberdyne Systems
+559,2019-03-16,Colombia,142,5208.05,Umbrella Corp
+560,2019-03-26,USA,62,1910.55,Tyrell Corporation
+561,2019-03-26,USA,288,26071.3,Stark Industries
+562,2019-03-30,Brazil,84,1529.2,BiffCo
+563,2019-03-16,Panama,361,13539.63,BiffCo
+564,2019-03-13,Panama,166,5164.82,Blue Sun Corporation
+565,2019-03-18,Canada,233,2359.93,LexCorp
+566,2019-03-22,USA,146,10969.18,Globex Corporation
+567,2019-03-09,Brazil,12,265.21,Hyperion Systems
+568,2019-03-22,Colombia,77,679.69,Dunder Mifflin
+569,2019-03-01,Brazil,330,16304.19,LexCorp
+570,2019-03-18,Brazil,52,282.67,Cyberdyne Systems
+571,2019-03-15,Brazil,340,6866.17,Monarch Solutions
+572,2019-03-30,USA,252,5764.04,Stark Industries
+573,2019-03-16,Colombia,125,4078.71,Octan Corporation
+574,2019-03-09,Colombia,231,22348.09,Nakatomi Trading
+575,2019-03-29,Canada,123,2760.27,Gringotts Bank
+576,2019-03-06,Colombia,223,2460.7,OCP
+577,2019-03-21,Canada,309,25937.26,Gekko & Co.
+578,2019-03-21,Brazil,351,122.05,BiffCo
+579,2019-03-17,Panama,152,3473.53,Nakatomi Trading
+580,2019-03-01,Colombia,375,1743.96,Hexagon Global
+581,2019-03-17,Brazil,350,2320.24,Globex Corporation
+582,2019-03-18,Colombia,234,10897.2,Wayne Enterprises
+583,2019-03-10,Canada,350,4257.85,Spacely Sprockets
+584,2019-03-10,Brazil,390,36749.9,Zorin Industries
+585,2019-03-18,USA,358,16081.24,ZikZak Corporation
+586,2019-03-25,Brazil,101,781.84,Delos Incorporated
+587,2019-03-30,Brazil,19,38.12,Hooli
+588,2019-03-20,USA,143,4277.05,Rich Industries
+589,2019-03-15,USA,385,7498.51,Tyrell Corporation
+590,2019-03-30,Brazil,360,28519.98,Abstergo Industries
+591,2019-03-30,Canada,44,2635.02,Zorin Industries
+592,2019-03-19,USA,50,2328.1,Dunder Mifflin
+593,2019-03-15,Colombia,310,3944.66,Nakatomi Trading
+594,2019-03-24,Canada,187,6359.91,Monarch Solutions
+595,2019-03-05,Panama,185,4189.43,Dunder Mifflin
+596,2019-03-02,USA,322,18647.32,Acme Corp
+597,2019-03-24,Brazil,220,3272.31,Massive Dynamic
+598,2019-03-15,Canada,195,8223.74,Spacely Sprockets
+599,2019-03-07,USA,148,2334.89,Globex Corporation
+600,2019-03-02,Brazil,287,5442.03,Acme Corp
+601,2019-03-31,Canada,202,6633.31,Oscorp
+602,2019-03-22,Brazil,274,1400.58,Dunder Mifflin
+603,2019-03-02,USA,271,4330.1,Stark Industries
+604,2019-03-22,Panama,190,9255.81,BiffCo
+605,2019-03-08,Panama,45,3472.2,OCP
+606,2019-03-24,USA,53,1289.98,ZikZak Corporation
+607,2019-03-06,Colombia,59,3778.7,Hyperion Systems
+608,2019-03-02,Panama,307,9825.33,BiffCo
+609,2019-03-01,Brazil,21,705.43,Delos Incorporated
+610,2019-03-10,USA,88,1844.85,Acme Corp
+611,2019-03-22,Canada,364,17685.07,LexCorp
+612,2019-03-21,Canada,111,4131.33,Soylent Corp
+613,2019-03-26,Panama,251,5165.67,Spacely Sprockets
+614,2019-03-27,Brazil,51,293.13,Tyrell Corporation
+615,2019-03-11,Colombia,87,7239.79,Acme Corp
+616,2019-03-20,Panama,222,11914.38,Nakatomi Trading
+617,2019-03-19,Panama,203,7589.27,Massive Dynamic
+618,2019-03-20,USA,371,4144.23,Gekko & Co.
+619,2019-03-06,Brazil,317,6727.08,Monarch Solutions
+620,2019-03-26,USA,390,28777.31,Gekko & Co.
+621,2019-03-26,Colombia,312,4246.25,Virtucon
+622,2019-03-09,Brazil,162,4370.14,Weyland-Yutani
+623,2019-03-12,USA,36,1844.01,Massive Dynamic
+624,2019-03-27,Brazil,54,1648.55,Encom
+625,2019-03-06,Brazil,221,1618.7,Spacely Sprockets
+626,2019-03-16,Colombia,278,13581.7,Hooli
+627,2019-03-10,USA,252,3187.77,Acme Corp
+628,2019-03-07,Panama,171,11069.42,Yoyodyne Propulsion Systems
+629,2019-03-15,Panama,271,14818.65,Initech
+630,2019-03-11,USA,189,12030.73,Wonka Industries
+631,2019-03-04,Brazil,331,7276.46,Gekko & Co.
+632,2019-03-10,Canada,319,3905.21,Hexagon Global
+633,2019-03-10,Panama,79,1361.8,Wayne Enterprises
+634,2019-03-16,Canada,291,1168.28,Monarch Solutions
+635,2019-03-22,Colombia,116,3249.67,BiffCo
+636,2019-03-19,Canada,320,1667.34,OCP
+637,2019-03-10,USA,337,3863.87,Hyperion Systems
+638,2019-03-03,Panama,125,2255.66,Nakatomi Trading
+639,2019-03-25,Canada,170,8649.55,Wayne Enterprises
+640,2019-03-08,Brazil,119,4840.04,ZikZak Corporation
+641,2019-03-28,Panama,148,3462.6,Encom
+642,2019-03-22,USA,380,14205.43,Acme Corp
+643,2019-03-09,USA,359,2434.72,Hooli
+644,2019-03-16,USA,89,3595.53,Hooli
+645,2019-03-08,Canada,392,1379.86,Wayne Enterprises
+646,2019-03-17,Brazil,151,2206.93,Cyberdyne Systems
+647,2019-03-03,USA,155,2899.65,Abstergo Industries
+648,2019-03-16,Colombia,370,8150.54,Massive Dynamic
+649,2019-03-17,Panama,293,9024.29,Encom
+650,2019-03-19,Canada,266,2614.44,Abstergo Industries
+651,2019-03-11,Panama,262,13650.37,MomCorp
+652,2019-03-25,Panama,123,5206.13,Vandelay Industries
+653,2019-03-31,Colombia,329,10854.88,Globex Corporation
+654,2019-03-27,Canada,105,901.54,Tyrell Corporation
+655,2019-03-14,Canada,378,12162.08,Weyland-Yutani
+656,2019-03-16,Canada,198,12816.04,Yoyodyne Propulsion Systems
+657,2019-03-30,USA,29,929.21,Octan Corporation
+658,2019-03-06,USA,261,11490.92,Tyrell Corporation
+659,2019-03-28,Panama,74,2044.38,Wonka Industries
+660,2019-03-26,Brazil,27,260.11,Abstergo Industries
+661,2019-03-21,Canada,69,4625.44,Globex Corporation
+662,2019-03-30,Panama,263,12049.0,Stark Industries
+663,2019-03-11,Brazil,337,16791.81,Octan Corporation
+664,2019-03-30,Canada,170,4022.81,Hexagon Global
+665,2019-03-24,USA,102,638.37,Hyperion Systems
+666,2019-03-24,USA,69,1582.46,Globex Corporation
+667,2019-03-13,Canada,122,1471.84,Monarch Solutions
+668,2019-03-03,Panama,60,2050.05,Monarch Solutions
+669,2019-03-01,Brazil,294,3781.43,Oscorp
+670,2019-03-20,USA,329,12098.23,Tyrell Corporation
+671,2019-03-19,Brazil,94,4224.3,BiffCo
+672,2019-03-09,USA,252,2622.98,Hexagon Global
+673,2019-03-03,Brazil,354,26971.78,Wayne Enterprises
+674,2019-03-22,Panama,176,5652.58,Encom
+675,2019-03-03,Panama,63,266.36,Hooli
+676,2019-03-19,Panama,167,8436.45,Spacely Sprockets
+677,2019-03-16,USA,361,5685.54,Zorin Industries
+678,2019-03-30,Canada,122,1685.54,Vandelay Industries
+679,2019-03-23,Brazil,205,6479.62,LexCorp
+680,2019-03-07,Canada,84,6281.87,Abstergo Industries
+681,2019-03-07,Canada,378,6530.52,Blue Sun Corporation
+682,2019-03-07,Canada,57,1385.29,Hexagon Global
+683,2019-03-04,Brazil,43,523.84,Virtucon
+684,2019-03-18,Panama,240,6623.29,Hexagon Global
+685,2019-03-23,USA,43,1196.28,Wonka Industries
+686,2019-03-14,Panama,340,29618.13,Hooli
+687,2019-03-19,Brazil,20,133.92,Spacely Sprockets
+688,2019-03-04,Brazil,177,3046.36,Yoyodyne Propulsion Systems
+689,2019-03-24,USA,340,7836.67,Weyland-Yutani
+690,2019-03-09,USA,110,4812.54,Monarch Solutions
+691,2019-03-11,Panama,209,4766.78,Kobra International
+692,2019-03-18,Colombia,209,12372.06,Soylent Corp
+693,2019-03-04,Brazil,239,569.32,Rich Industries
+694,2019-03-27,Colombia,337,11246.36,Tyrell Corporation
+695,2019-03-23,Colombia,104,3098.97,Rich Industries
+696,2019-03-27,Canada,237,1094.25,Hyperion Systems
+697,2019-03-28,Canada,55,2426.3,Soylent Corp
+698,2019-03-11,Brazil,129,3898.76,Weyland-Yutani
+699,2019-03-03,Colombia,195,1970.56,Nakatomi Trading
+700,2019-03-12,Panama,400,3538.93,Octan Corporation
+701,2019-03-09,Panama,248,13289.86,Hyperion Systems
+702,2019-03-10,Panama,361,17512.72,Vandelay Industries
+703,2019-03-17,Colombia,249,4354.96,Nakatomi Trading
+704,2019-03-18,Canada,160,9034.22,Nakatomi Trading
+705,2019-03-24,USA,199,5392.03,Stark Industries
+706,2019-03-07,USA,240,4064.12,Stark Industries
+707,2019-03-10,Brazil,291,13549.22,Oscorp
+708,2019-03-17,USA,378,5687.77,Vought International
+709,2019-03-06,Colombia,225,9249.71,Hexagon Global
+710,2019-03-12,Colombia,26,354.88,Globex Corporation
+711,2019-03-12,Panama,168,9730.1,Gringotts Bank
+712,2019-03-31,Colombia,240,145.32,Stark Industries
+713,2019-03-16,Canada,11,51.43,Soylent Corp
+714,2019-03-21,Panama,156,3888.81,ZikZak Corporation
+715,2019-03-17,Colombia,212,309.26,Umbrella Corp
+716,2019-03-13,Canada,137,891.15,Umbrella Corp
+717,2019-03-21,Panama,102,2134.36,ZikZak Corporation
+718,2019-03-14,Panama,144,3127.52,Gringotts Bank
+719,2019-03-17,Brazil,360,4405.11,Vought International
+720,2019-03-21,Panama,152,2132.08,Wonka Industries
+721,2019-03-06,Panama,390,23990.7,LexCorp
+722,2019-03-08,Canada,17,1528.84,Nakatomi Trading
+723,2019-03-31,Brazil,337,2750.29,Rich Industries
+724,2019-03-28,USA,319,10656.61,Acme Corp
+725,2019-03-08,USA,155,11919.24,Encom
+726,2019-03-10,Panama,385,11010.65,Octan Corporation
+727,2019-03-15,USA,246,6002.69,Rich Industries
+728,2019-03-02,USA,240,3783.21,Vandelay Industries
+729,2019-03-22,Panama,299,3707.41,Nakatomi Trading
+730,2019-03-22,Brazil,120,660.37,Nakatomi Trading
+731,2019-03-09,Panama,197,10554.67,LexCorp
