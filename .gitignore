@@ -78,7 +78,8 @@ coverage.xml
 # -------------------------------
 # Archivos de configuración local
 # -------------------------------
-.env            # Evita subir credenciales o claves secretas
+# Evita subir credenciales o claves secretas
+.env
 local_settings.py
 
 # -------------------------------
