@@ -78,7 +78,7 @@ coverage.xml
 # -------------------------------
 # Archivos de configuración local
 # -------------------------------
-.env                # Evita subir credenciales o claves secretas
+.env            # Evita subir credenciales o claves secretas
 local_settings.py
 
 # -------------------------------
@@ -86,6 +86,7 @@ local_settings.py
 # -------------------------------
 *.sqlite3
 *.db
+*.sql
 
 # -------------------------------
 # Archivos ocultos del sistema (macOS)
